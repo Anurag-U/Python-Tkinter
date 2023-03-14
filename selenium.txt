@@ -1,0 +1,9 @@
+
+
+selenium - web based automation tester
+
+Python - https://chromedriver.chromium.org/downloads
+Chrome webdriver - https://chromedriver.chromium.org/downloads
+Pycharm - https://www.jetbrains.com/pycharm/download/#section=windows
+ppt slide link - https://docs.google.com/presentation/
+
